@@ -15,11 +15,13 @@ The code analyzes data from the **first 6 months of 2017** and provides user pro
 
 ### Files used
 1. bikeshare.py
-2. washington.csv (ignored)
-3. new_york_city.csv (ignored)
-4. chicago.csv (ignored)
+2. washington.csv (Data file - ignored in .gitignore)
+3. new_york_city.csv (Data file - ignored in .gitignore)
+4. chicago.csv (Data file - ignored in .gitignore)
 
 ### Credits
 Udacity final course project. Code  sourced from udacity starter code base and the data was provided by udacity.
+
+https://guides.github.com/features/mastering-markdown/ - Used this link for markdown formatting style.
 
 
