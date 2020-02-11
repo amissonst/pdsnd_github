@@ -177,7 +177,7 @@ def user_stats(df):
         print('\nThe earliest birth year is {}, most recent is: {} and the most common is: {}'.format(earliest_year,most_recent_year,most_common_year))
     else:
             print("No Gender or Birth Year data available for this city")
-    
+    """Display total time"""
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
 
@@ -191,7 +191,7 @@ def main():
         station_stats(df)
         trip_duration_stats(df)
         user_stats(df)
-
+        """Gives the user the option to restart the program again to run an alternate analysis"""
         restart = input('\nWould you like to restart the program? Enter yes or no.\n')
         if restart.lower() != 'yes':
             break
