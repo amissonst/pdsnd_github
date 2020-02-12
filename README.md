@@ -1,15 +1,24 @@
 ### Date created
-Include the date you created this project and README file.
+*Created: 2/11/2020*
 
 ### Project Title
-Replace the Project Title
+Bikeshare Analysis
 
 ### Description
-Describe what your project is about and what it does
+Analyzes bikeshare rental data for:
+1. Washington
+2. Chicago
+3. New York City
+
+Analyzes only the **6 months** of the year.
 
 ### Files used
-Include the files used
+bikeshare.py
+washington.csv
+new_york_city.csv
+chicago.csv
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+NA
 
